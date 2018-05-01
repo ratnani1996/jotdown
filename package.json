@@ -1,0 +1,13 @@
+{
+  "name": "jotdown",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/ratnani1996/jotdown.git",
+  "author": "ratnani1996 <himanshuratnani1996@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
